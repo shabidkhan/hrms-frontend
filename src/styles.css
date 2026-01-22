@@ -108,7 +108,7 @@ body::before {
 .summary-card { background: #f8faf8; border-radius: 14px; padding: 16px; border: 1px solid var(--border); }
 .summary-card h3 { margin: 6px 0 0; font-size: 1.6rem; }
 
-.table-wrap { width: calc( 100vw - 96px); overflow-x: auto; }
+.table-wrap { width: 100%; overflow-x: auto; }
 
 table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
 
